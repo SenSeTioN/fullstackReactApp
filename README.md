@@ -32,7 +32,7 @@
 
 `username - your username or postgres by default` 
 
-`password - password superuser` 
+`password - password (superuser)` 
 
 `port - your port or 5432 by default` 
 
