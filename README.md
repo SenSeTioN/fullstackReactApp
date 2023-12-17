@@ -1,7 +1,5 @@
 # Fullstack ReactApp
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenSaTioN&theme=cobalt&show_icons=true)
-
 ## Stack
 
 <div>
@@ -22,7 +20,7 @@
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Express" width="40" height="40"/>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>
 
 </div>
 
@@ -30,8 +28,16 @@
 
 1️⃣ Clone repo.\
 2️⃣ Run `yarn` in the project directory `backend`.\
-3️⃣ Create `.env` file based, fill required fields `DATABASE_URL= postgresql://username:password@localhost:port/name?schema=public`\.
-`username - your username or postgres by default` `password - password superuser` `port - your port or 5432 by default` `name - name directory`
+3️⃣ Create `.env` file based, fill required fields `DATABASE_URL= postgresql://username:password@localhost:port/name?schema=public` 
+
+`username - your username or postgres by default` 
+
+`password - password superuser` 
+
+`port - your port or 5432 by default` 
+
+`name - name directory`
+
 4️⃣ Start development server by running `yarn dev`.\
 5️⃣ Visit <http://localhost:5000/>. The application should be up & running.
 
