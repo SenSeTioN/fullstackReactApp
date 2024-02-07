@@ -38,8 +38,9 @@
 
 `name - name directory`
 
-4️⃣ Start development server by running `yarn dev`.\
-5️⃣ Visit <http://localhost:5000/>. The application should be up & running.
+4️⃣ Run console `npx prisma migrate dev --name init`
+5️⃣ Start development server by running `yarn dev`.\
+6️⃣ Visit <http://localhost:5000/>. The application should be up & running.
 
 ---
 
